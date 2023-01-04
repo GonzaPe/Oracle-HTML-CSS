@@ -1,0 +1,29 @@
+/* Una buena práctica es mantener el orden de la estructura del HTML */
+body{
+    background: #CCCCCC;
+}
+
+#banner{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+/* se puede especificar a qué parte aplicará el estilo colocando todas las características que componen al objetivo en HTML */
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
